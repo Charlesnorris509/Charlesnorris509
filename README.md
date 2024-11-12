@@ -4,7 +4,7 @@
 
 💡 Technical Internship Experience: Recently completed a Software Engineering Internship at George Mason University, where I contributed to the Exam Bank Project by building scalable data pipelines and developing a full-stack web application using React.js, Flask, and MySQL. As an Amazon NeXT Scholar, I enhanced my coding techniques and problem-solving skills in a real-world tech environment, collaborating with Amazon engineers to tackle complex coding challenges.
 
-🔧 Open-Source & Academic Contributions: Contributor to Operating System Concepts, where I collaborated with academic mentors to refine foundational systems knowledge. Recently contributed to DocsGPT, optimizing Docker deployment, enhancing configuration efficiency, and building custom GitLab integrations to streamline documentation workflows.
+🔧 Open-Source & Academic Contributions: Contributor to Operating System Concepts, where I collaborated with academic mentors to refine foundational systems knowledge. Recently Started contributing to DocsGPT, a LLM Application focusing on changing the developpers relationship with documentation, I started with optimizing Docker deployment, enhancing configuration efficiency, and building custom GitLab integrations to streamline documentation workflows.
 
 🛡️ Pentesting Skills: Skilled in Linux Bash, PowerShell, and Cisco IOS for secure systems management. Hands-on experience with penetration testing tools and methods, ensuring data integrity and enhancing system security for projects.
 
