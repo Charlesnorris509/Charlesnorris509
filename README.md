@@ -1,4 +1,4 @@
-## 🚀 Software Engineer & Open-Source Contributor | Specializing in AI, Data Processing, Cloud Solutions, and Pentesting
+## 🚀 Software Engineer, AWS Certified Cloud Practitioner & Open-Source Contributor | Specializing in AI, Data Processing, Cloud Solutions, and Pentesting
 
 🎓 Information Technology Student at George Mason University with a focus on Database Technology & Programming, graduating in May 2025.
 
