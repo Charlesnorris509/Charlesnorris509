@@ -27,18 +27,6 @@
 
 🔗 Open to connecting and collaborating on impactful projects in software and cybersecurity  
 
----
-
-## 📊 GitHub Stats  
-
-### ⭐ Highlights  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Charlesnorris509&show_icons=true&theme=gruvbox)  
-
-### 🌱 Language Proficiency  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charlesnorris509&layout=compact&theme=gruvbox)  
-
----
-
 ## 🚀 Contributions  
 
 ### 📈 Weekly Contribution Graph  
