@@ -44,7 +44,7 @@
 ---
 
 ### 📨 Contact Me  
-Let's connect on [LinkedIn](https://linkedin.com/in/charlesnorris) or collaborate on [GitHub](https://github.com/Charlesnorris509)!  
+Let's connect on [LinkedIn](https://linkedin.com/in/charlesanorris) or collaborate on [GitHub](https://github.com/Charlesnorris509)!  
 
 
 <!--
