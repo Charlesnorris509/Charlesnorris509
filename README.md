@@ -1,50 +1,50 @@
-## 🚀 Software Engineer | AWS Certified Cloud Practitioner | Open-Source Contributor  
+## 🚀 Software Engineer | AWS Certified Cloud Practitioner | Open-Source Contributor
 
-🎓 **Information Technology Student**  
-- Focus: Database Technology & Programming at George Mason University  
-- Graduation: May 2025  
+![Profile views](https://komarev.com/ghpvc/?username=charlesnorris509&label=Profile%20views&color=0e75b6&style=flat)
 
-💡 **Internship Experience**  
-- **Software Engineering Intern** at George Mason University  
-  - Contributed to the Exam Bank Project by designing and implementing scalable data pipelines  
+### 🎓 Education
+- Information Technology Student at **George Mason University**
+  - Focus: Database Technology & Programming
+  - Expected Graduation: May 2025
 
-🔧 **Open-Source & Academic Contributions**  
-- Contributor to **Operating System Concepts**, enhancing foundational systems knowledge  
-- Actively contributing to diverse open-source projects  
+### 💼 Professional Experience
+- **Software Engineering Intern** at George Mason University
+  - Led development on the Exam Bank Project
+  - Designed and implemented scalable data pipelines
+  - Collaborated with cross-functional teams
 
-🛡️ **Pentesting Skills**  
-- Proficient in Linux Bash, PowerShell, and Cisco IOS for secure system management  
-- Hands-on experience with penetration testing tools and methodologies  
+### 🔧 Tech Stack
+![Languages](https://skillicons.dev/icons?i=python,js,ts,php,go,cs,java)
+![Frameworks](https://skillicons.dev/icons?i=react,flask,django,vue)
+![DevOps](https://skillicons.dev/icons?i=docker,aws)
+![Databases](https://skillicons.dev/icons?i=mysql,sqlite)
 
-🌐 **Tech Stack**  
-- **Programming Languages:** Python, JavaScript, TypeScript, PHP, Golang, C#, Java  
-- **Frameworks:** React, Flask, Django, Vue.js  
-- **Cloud & DevOps:** Docker, AWS (EC2, S3, Lambda), CI/CD pipelines  
-- **Database Management:** SQL, NoSQL, SQLite, PL/SQL  
+### 🛡️ Security Skills
+- Proficient in Linux Bash, PowerShell, and Cisco IOS
+- Experienced with penetration testing tools and methodologies
 
-⚽ **Semi-Professional Soccer Player**  
-- Representing Alexandria Metrostars | Bringing teamwork and resilience to tech and sports  
+### ⚽ Beyond Tech
+- Semi-Professional Soccer Player with Alexandria Metrostars
+- Bringing teamwork and resilience from sports to technology
 
-🔗 Open to connecting and collaborating on impactful projects in software and cybersecurity  
+### 📈 GitHub Stats
 
-## 🚀 Contributions  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charlesnorris509&show_icons=true&theme=radical)
 
-### 📈 Weekly Contribution Graph  
-[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Charlesnorris509&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charlesnorris509&theme=radical)
 
-### 🏆 GitHub Achievements  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Charlesnorris509&theme=radical&margin-w=15&margin-h=15&no-frame=true)  
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=charlesnorris509&theme=radical&margin-w=15&margin-h=15&no-frame=true)
 
----
+### 📊 Weekly Contribution Graph
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Charlesnorris509&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🗺️ Technologies I've Been Using  
+### 🌐 Languages Used
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesnorris509&layout=compact&theme=radical)
 
-![Tech Stack](https://skillicons.dev/icons?i=python,javascript,typescript,php,go,java,react,flask,django,vuejs,docker,aws,mysql,sqlite,linux)  
-
----
-
-### 📨 Contact Me  
-Let's connect on [LinkedIn](https://linkedin.com/in/charlesanorris) or collaborate on [GitHub](https://github.com/Charlesnorris509)!  
+### 📫 Connect With Me
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/charlesanorris)
+[![GitHub](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg)](https://github.com/Charlesnorris509)
 
 
 <!--
