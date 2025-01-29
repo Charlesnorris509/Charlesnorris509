@@ -43,8 +43,11 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesnorris509&layout=compact&theme=radical)
 
 ### 📫 Connect With Me
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/charlesanorris)
-[![GitHub](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg)](https://github.com/Charlesnorris509)
+### 📨 Contact Me
+Let's connect! You can find me on:
+- [LinkedIn](https://linkedin.com/in/charlesanorris)
+- [GitHub](https://github.com/Charlesnorris509)
+- [Send me an email](mailto:cnorris7@gmu.edu)
 
 
 <!--
