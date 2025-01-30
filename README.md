@@ -1,54 +1,77 @@
-## 🚀 Software Engineer | AWS Certified Cloud Practitioner | Open-Source Contributor
+# 🚀 Software Engineer | AWS Certified Cloud Practitioner | Open-Source Contributor  
+🎓 Information Technology Student  
 
-![Profile views](https://komarev.com/ghpvc/?username=charlesnorris509&label=Profile%20views&color=0e75b6&style=flat)
+**Focus:** Database Technology & Programming at George Mason University  
+**Graduation:** May 2025  
 
-### 🎓 Education
-- Information Technology Student at **George Mason University**
-  - Focus: Database Technology & Programming
-  - Expected Graduation: May 2025
+---
 
-### 💼 Professional Experience
-- **Software Engineering Intern** at George Mason University
-  - Led development on the Exam Bank Project
-  - Designed and implemented scalable data pipelines
-  - Collaborated with cross-functional teams
+## 💡 Internship Experience  
+**Software Engineering Intern at George Mason University**  
+- Contributed to the **Exam Bank Project** by designing and implementing scalable data pipelines.  
 
-### 🔧 Tech Stack
-![Languages](https://skillicons.dev/icons?i=python,js,ts,php,go,cs,java)
-![Frameworks](https://skillicons.dev/icons?i=react,flask,django,vue)
-![DevOps](https://skillicons.dev/icons?i=docker,aws)
-![Databases](https://skillicons.dev/icons?i=mysql,sqlite)
+---
 
-### 🛡️ Security Skills
-- Proficient in Linux Bash, PowerShell, and Cisco IOS
-- Experienced with penetration testing tools and methodologies
+## 🔧 Open-Source & Academic Contributions  
+- Contributor to **Operating System Concepts**, enhancing foundational systems knowledge.  
+- Actively contributing to diverse open-source projects.  
 
-### ⚽ Beyond Tech
-- Semi-Professional Soccer Player with Alexandria Metrostars
-- Bringing teamwork and resilience from sports to technology
+---
 
-### 📈 GitHub Stats
+## 🛡️ Pentesting Skills  
+- Proficient in **Linux Bash**, **PowerShell**, and **Cisco IOS** for secure system management.  
+- Hands-on experience with penetration testing tools and methodologies.  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charlesnorris509&show_icons=true&theme=radical)
+---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charlesnorris509&theme=radical)
+## 🌐 Tech Stack  
+### Programming Languages  
+- Python, JavaScript, TypeScript, PHP, Golang, C#, Java  
 
-### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=charlesnorris509&theme=radical&margin-w=15&margin-h=15&no-frame=true)
+### Frameworks  
+- React, Flask, Django, Vue.js  
 
-### 📊 Weekly Contribution Graph
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Charlesnorris509&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### Cloud & DevOps  
+- Docker, AWS (EC2, S3, Lambda), CI/CD pipelines  
 
-### 🌐 Languages Used
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesnorris509&layout=compact&theme=radical)
+### Database Management  
+- SQL, NoSQL, SQLite, PL/SQL  
 
-### 📫 Connect With Me
-### 📨 Contact Me
-Let's connect! You can find me on:
-- [LinkedIn](https://linkedin.com/in/charlesanorris)
-- [GitHub](https://github.com/Charlesnorris509)
-- [Send me an email](mailto:cnorris7@gmu.edu)
+---
 
+## ⚽ Semi-Professional Soccer Player  
+- Representing **Alexandria Metrostars** | Bringing teamwork and resilience to tech and sports.  
+
+---
+
+## 🔗 Open to Connecting  
+I’m open to connecting and collaborating on impactful projects in software and cybersecurity. Let’s build something great together!  
+
+---
+
+## 🚀 Contributions  
+### 📈 Weekly Contribution Graph  
+![GitHub Contribution Graph](https://ghchart.rshah.org/Charlesnorris509)  
+
+### 🏆 GitHub Achievements  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Charlesnorris509)  
+
+---
+
+## 🏅 Certifications  
+- **AWS Certified Cloud Practitioner**  
+
+---
+
+## 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Charlesnorris509&show_icons=true&theme=radical)  
+
+### Top Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Charlesnorris509&layout=compact&theme=radical)  
+
+---
+
+Let’s connect and collaborate! 🚀  
 
 <!--
 **Charlesnorris509/Charlesnorris509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
